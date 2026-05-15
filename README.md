@@ -43,12 +43,10 @@ Technical profile focused on web development with **C#**, **ASP.NET**, **JavaScr
 ## 🚀 Projects
 
 
-### 🔭 [Ticketsystem](https://github.com/vascoalexander/ticketsystem)
+### 🔭 [Ticketsystem]([https://github.com/vascoalexander/ticketsystem](https://github.com/Naceus/Bugboard))
 - **Description:** ASP.NET Core based ticket management web application.
-- **Technologies:** C#, ASP.NET Core, .NET 8, Entity Framework Core, PostgreSQL, Docker
+- **Technologies:** C#, ASP.NET Core, .NET 8, Entity Framework Core, SQLITE
 - **Structure:** MVC project structure with Controllers, Models and Views
-- **Testing:** xUnit test project
-- **Contribution:** Collaboration on backend and web application development
 
 ### 🔭 [Flashcards App](https://github.com/vascoalexander/flashcards-app)
 - **Description:** Fullstack flashcard learning application.
